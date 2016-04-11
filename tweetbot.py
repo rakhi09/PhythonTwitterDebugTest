@@ -4,7 +4,7 @@ import time
 #Api info goes here
 APP_KEY = ‘XXXXXXXXX’
 APP_SECRET = 'XXXXXXXXX'
-OAUTH_TOKEN = 'XXXXXXXXX-kIqyYFpDzRjPzAHHymG1mqWQzP8nzJn'
+OAUTH_TOKEN = 'XXXXXXXXX'
 OAUTH_TOKEN_SECRET = 'XXXXXXXXX'
 
 #Use Twython to set up api access to twitter
