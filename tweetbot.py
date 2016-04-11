@@ -24,7 +24,7 @@ try:
 		if (line not in ['\n','\r\n']) and (line not in dict) and (len(line) <= 140):
 			#What are we tweeting
 			print ("Trying to tweet " + line)
-			#Attempt to send the tweet
+			#Attempt to send the tweet, converted line to string type
 			api.update_status(status=str(line))
 			#Add it to dictionary
 			dict[line]=1
