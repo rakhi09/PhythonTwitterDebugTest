@@ -2,7 +2,7 @@ from twython import Twython, TwythonError
 import time
 
 #Api info goes here
-APP_KEY = ‘XXXXXXXXX’
+APP_KEY = 'XXXXXXXXX'
 APP_SECRET = 'XXXXXXXXX'
 OAUTH_TOKEN = 'XXXXXXXXX'
 OAUTH_TOKEN_SECRET = 'XXXXXXXXX'
